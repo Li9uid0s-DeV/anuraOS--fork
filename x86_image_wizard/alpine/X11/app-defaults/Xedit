@@ -261,7 +261,7 @@ c<Key>G:	cancel-find-file()\n\
 ! Sample dictionary, word chars and text mode resources setup
 !*ispell.dictionary:			br
 !*ispell.dictionaries:			br american americanmed+ english
-!*ispell*br.wordChars:			áéíóúçÁÉÍÓÚÇàÀâêôÂÊÔüÜãõÃÕ-
+!*ispell*br.wordChars:			ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-
 *ispell.ispellCommand:			/usr/bin/aspell -B -m
 *ispell.lookCommand:			/bin/egrep
 !*ispell*text.skipLines:		.#
